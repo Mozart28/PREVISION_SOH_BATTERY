@@ -142,7 +142,7 @@ Dense(1, linéaire)                ← Prédiction SoH
 | **MAE** | **1.03 %** | Erreur absolue moyenne < 1 point de SoH |
 | **RMSE** | **1.49 %** | Robuste aux pics d'erreur |
 | **MAPE** | **1.25 %** | Erreur relative moyenne |
-| **R²** | **0.9547** | 95.5% de la variance expliquée |
+| **R²** | **0.9547** | 96.4% de la variance expliquée |
 
 **Diagnostic de variance :**
 ```
